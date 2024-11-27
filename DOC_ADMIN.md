@@ -20,7 +20,7 @@ L'installation diffère selon que l'on est côté serveur ou côté client.
 
 ## Installation TightVNC côté serveur
 
--- Téléchargement
+Téléchargement
 Rendez-vous sur le site officiel pour télécharger l'application. Nous avons choisi la version de TightVNC la plus récente (v2.8.85) en cliquant sur "Installer for Windows (64-bit). (ph100)
 
 Une fois l'excutable téléchargé, on lance l'installation (ph101).
