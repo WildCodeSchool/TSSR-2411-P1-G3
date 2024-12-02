@@ -31,6 +31,10 @@ Et justement, sur l'affichage suivant on a désactivé la partie "Viewer", qui c
 
 
 
+<img src="https://5.imimg.com/data5/SELLER/Default/2023/10/356050645/JO/YL/IH/185666206/windows-server-2022-standard-500x500.jpg" alt="logo windows" width="200">
+
+
+
 
 
 
