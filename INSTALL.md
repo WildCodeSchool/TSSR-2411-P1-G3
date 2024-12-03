@@ -25,7 +25,7 @@ Rendez-vous sur le site officiel pour télécharger l'application. Nous avons ch
 
 Une fois l'excutable téléchargé, on lance l'installation (ph101).
 
-On a choisi l'installation "Custom" pour pouvoir se concentrer sur la partie serveur. (ph102)
+On a choisi l'installation "Typical" pour pouvoir se concentrer sur la partie serveur. (ph102)
 
 Et justement, sur l'affichage suivant on a désactivé la partie "Viewer", qui correspond à la partie utilisée par le client. (ph103)
 
