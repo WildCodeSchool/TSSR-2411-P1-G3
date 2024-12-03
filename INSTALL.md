@@ -25,11 +25,16 @@
 
 # 1. Prérequis technique
 
+## Côté client
+OS : Windows Server 2022 version
+Machine virtuelle utilisée : VMware Workstation
+Configuration VM :
+Processeur : 4 coeurs
+RAM : 4 Go
+Disque : 60 Go
 
 
-
-
-## Côté serveur :
+## Côté serveur
 OS : Windows Server 2022 version
 Machine virtuelle utilisée : VMware Workstation
 Configuration VM :
