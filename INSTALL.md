@@ -1,4 +1,4 @@
-1. [Prérequis technique](#1-prérequis-technique)
+1. [Prérequis technique](#1-prerequis-technique)
 2. Installation de base des systèmes et de leur environnement
    1. [Machine client sous Windows 10](#machine-client-sous-windows-10)
       1. [Configuration de la VM](#configuration-de-la-vm-windows-10)
@@ -7,7 +7,7 @@
       4. [Activation et configuration du bureau à distance](#activation-et-configuration-du-bureau-a-distance-windows-10)
       5. [Téléchargement et installation de TightVNC](#installation-de-tightvnc-windows-10)
       6. [Mises à jour Windows Update](#mises-a-jour-windows-update-windows-10)
-      7. [Configuration d'une IP fixe](#configuration-ip-fixe-windows-10)
+      7. [Configuration d'une IP fixe](#configuration-dune-ip-fixe-windows-10)
    2. [Machine administrateur sous Windows Server 2022](#machine-administrateur-sous-windows-server-2022)
       1. [Configuration de la VM](#configuration-de-la-vm-windows-server-2022)
       2. [Installation de Windows Server 2022](#installation-de-windows-server-2022)
@@ -16,11 +16,12 @@
       5. [Activation et configuration du bureau à distance](#activation-et-configuration-du-bureau-a-distance-windows-server-2022)
       6. [Téléchargement et installation de TightVNC](#installation-de-tightvnc-windows-server-2022)
       7. [Mises à jour Windows Update](#mises-a-jour-windows-update-windows-server-2022)
-      8. [Configuration d'une IP fixe](#configuration-ip-fixe-windows-server-2022)
+      8. [Configuration d'une IP fixe](#configuration-dune-ip-fixe-windows-server-2022)
 3. [Pour aller plus loin dans la configuration](#pour-aller-plus-loin-dans-la-configuration)
-   1. [Sécuriser la connexion via le bureau à distance](#securiser-connexion-bureau-a-distance)
-   2. [Sécuriser la connexion via Tight VNC](#securiser-connexion-tight-vnc)
-   3. [Faciliter la connexion via un script PowerShell](#faciliter-connexion-powershell)
+   1. [Sécuriser la connexion via le bureau à distance](#securiser-la-connexion-via-le-bureau-a-distance)
+   2. [Sécuriser la connexion via TightVNC](#securiser-la-connexion-via-tightvnc)
+   3. [Faciliter la connexion via un script PowerShell](#faciliter-la-connexion-via-un-script-powershell)
+
 
 
 
@@ -225,7 +226,7 @@ Et justement, sur l'affichage suivant on a désactivé la partie "Viewer", qui c
 
 ## Sécuriser la connexion via le bureau à distance
 
-## Sécuriser la connexion via Tight VNC
+## Sécuriser la connexion via TightVNC
 
 ## Faciliter la connexion via un script PowerShell
 
