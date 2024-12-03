@@ -41,9 +41,9 @@ Disque : 60 Go
 # 2. Installation de base des systèmes et de leur environnement
 
 
-## Machine client sous Windows 10
+## 1. Machine client sous Windows 10
 
-### Configuration de la VM Windows 10
+### 1. Configuration de la VM Windows 10
 
 
 <p align="center"><img width="50%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2001.png" alt=""></p>
@@ -52,7 +52,7 @@ Disque : 60 Go
 <p align="center"><img width="50%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2004.png" alt=""></p>
 <p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2005.png" alt=""></p>
 
-### Installation de Windows 10
+### 2. Installation de Windows 10
 
 
 <p align="center"><img width="60%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2006.png" alt=""></p>
@@ -77,7 +77,7 @@ Disque : 60 Go
 <p align="center"><img src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2024.png" alt=""></p>
 
 
-### Renommage du PC Windows 10
+### 3. Renommage du PC Windows 10
 
 
 
@@ -88,7 +88,7 @@ Disque : 60 Go
 <p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2029.png" alt=""></p>
 <p align="center"><img width="50%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2030.png" alt=""></p>
 
-### Activation et configuration du bureau à distance Windows 10
+### 4. Activation et configuration du bureau à distance Windows 10
 
 
 <p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2031.png" alt=""></p>
@@ -108,7 +108,7 @@ Disque : 60 Go
 <p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2062.png" alt=""></p>
 
 
-### Installation de TightVNC Windows 10
+### 5. Installation de TightVNC Windows 10
 
 
 <p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2032b.png" alt=""></p>
@@ -122,14 +122,14 @@ Disque : 60 Go
 <p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2032j.png" alt=""></p>
 
 
-### Mises à jour Windows Update Windows 10
+### 6. Mises à jour Windows Update Windows 10
 
 
 <p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2032k.png" alt=""></p>
 <p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2032l.png" alt=""></p>
 <p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2032m.png" alt=""></p>
 
-### Configuration d'une IP fixe Windows 10
+### 7. Configuration d'une IP fixe Windows 10
 
 
 <p align="center"><img src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2033.png" alt=""></p>
@@ -140,9 +140,9 @@ Disque : 60 Go
 <p align="center"><img width="50%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2038.png" alt=""></p>
 <p align="center"><img width="90%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2039.png" alt=""></p>
 
-## Machine administrateur sous Windows Server 2022
+## 2. Machine administrateur sous Windows Server 2022
 
-### Configuration de la VM Windows Server 2022
+### 1. Configuration de la VM Windows Server 2022
 
 
 <p align="center"><img width="50%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2001.png" alt=""></p>
@@ -151,7 +151,7 @@ Disque : 60 Go
 <p align="center"><img width="50%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2004.png" alt=""></p>
 <p align="center"><img src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2005.png" alt=""></p>
 
-### Installation de Windows Server 2022
+### 2. Installation de Windows Server 2022
 
 
 
@@ -162,7 +162,7 @@ Disque : 60 Go
 <p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2010.png" alt=""></p>
 <p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2011.png" alt=""></p>
 
-### Renommage du PC Windows Server 2022
+### 3. Renommage du PC Windows Server 2022
 
 
 <p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2012.png" alt=""></p>
@@ -170,7 +170,7 @@ Disque : 60 Go
 <p align="center"><img width="50%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2014.png" alt=""></p>
 <p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2015.png" alt=""></p>
 
-### Ajout du compte "Administrator"
+### 4. Ajout du compte "Administrator"
 
 
 <p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2016.png" alt=""></p>
@@ -183,7 +183,7 @@ Disque : 60 Go
 <p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2023.png" alt=""></p>
 <p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2024.png" alt=""></p>
 
-### Activation et configuration du bureau à distance Windows Server 2022
+### 5. Activation et configuration du bureau à distance Windows Server 2022
 
 <p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2031.png" alt=""></p>
 <p align="center"><img width="50%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2032.png" alt=""></p>
@@ -198,7 +198,7 @@ Disque : 60 Go
 <p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2054.png" alt=""></p>
 
 
-### Installation de TightVNC Windows Server 2022
+### 6. Installation de TightVNC Windows Server 2022
 
 <p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2027a.png" alt=""></p>
 <p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2027b.png" alt=""></p>
@@ -215,7 +215,7 @@ Disque : 60 Go
 <p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2028.png" alt=""></p>
 
 
-### Mises à jour Windows Update Windows Server 2022
+### 7. Mises à jour Windows Update Windows Server 2022
 
 
 <p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2025.png" alt=""></p>
@@ -228,7 +228,7 @@ Disque : 60 Go
 <p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2028d.png" alt=""></p>
 
 
-### Configuration d'une IP fixe Windows Server 2022
+### 8. Configuration d'une IP fixe Windows Server 2022
 
 
 <p align="center"><img width="90%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2029.png" alt=""></p>
@@ -241,11 +241,11 @@ Disque : 60 Go
 
 # 3. Pour aller plus loin dans la configuration
 
-## Sécuriser la connexion via le bureau à distance
+## 1. Sécuriser la connexion via le bureau à distance
 
-## Sécuriser la connexion via TightVNC
+## 2. Sécuriser la connexion via TightVNC
 
-## Faciliter la connexion via un script PowerShell
+## 3. Faciliter la connexion via un script PowerShell
 
 
 # FAQ
