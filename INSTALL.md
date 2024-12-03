@@ -1,5 +1,5 @@
 1. [Prérequis technique](#1-prérequis-technique)
-2. [Etapes d'installation et de configuration](#Etapes d'installation et de configuration)
+2. [Etapes d'installation et de configuration](#etapes-d-installation-et-de-configuration)
 
 
 
@@ -18,6 +18,7 @@ RAM : 4 Go
 Disque : 60 Go
 
 
+# Etapes d'installation et de configuration
 
 # Installation TightVNC
 
