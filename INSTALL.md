@@ -1,15 +1,23 @@
 1. [Prérequis technique](#1-prérequis-technique)
 2. Installation de base des systèmes et de leur environnement
-3. [Machine client sous Windows 10](#etapes-d-installation-et-de-configuration)
-   1. Configuation de la VM
-   2. Installation de Windows 10
-   3. Renommage du PC
-   4. Activation du bureau à distance
-   5. Téléchargement et installation de TighVNC
-   6. Mises à jour Windows Update
-   7. Configuration d'une IP fixe
-   8. 
-*  [Paramétrage du Serveur Windows 2022](#paramétrage-du-serveur-windows-2022)
+   1. [Machine client sous Windows 10](#etapes-d-installation-et-de-configuration)
+      1. Configuation de la VM
+      2. Installation de Windows 10
+      3. Renommage du PC
+      4. Activation et configuration du bureau à distance
+      5. Téléchargement et installation de TighVNC
+      6. Mises à jour Windows Update
+      7. Configuration d'une IP fixe
+   1. [Machine administrateur sous Windows Server 2022](#etapes-d-installation-et-de-configuration)
+      1. Configuation de la VM
+      2. Installation de Windows Server 2022
+      3. Renommage du PC
+      4. Ajout du compte "Administrator"
+      5. Activation et configuration du bureau à distance
+      6. Téléchargement et installation de TighVNC
+      7. Mises à jour Windows Update
+      8. Configuration d'une IP fixe
+
 
 
 # FAQ
