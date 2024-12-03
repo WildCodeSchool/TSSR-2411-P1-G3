@@ -21,7 +21,7 @@
    1. [Sécuriser la connexion via le bureau à distance](#securiser-la-connexion-via-le-bureau-a-distance)
    2. [Sécuriser la connexion via TightVNC](#securiser-la-connexion-via-tightvnc)
    3. [Faciliter la connexion via un script PowerShell](#faciliter-la-connexion-via-un-script-powershell)
-
+4. [FAQ](#FAQ)
 
 # 1. Prérequis technique
 
@@ -248,7 +248,7 @@ Disque : 60 Go
 ## 3. Faciliter la connexion via un script PowerShell
 
 
-# FAQ
+# 4. FAQ
 
 
 
