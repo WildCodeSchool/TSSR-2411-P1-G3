@@ -17,7 +17,7 @@
       6. [Téléchargement et installation de TighVNC]
       7. [Mises à jour Windows Update]
       8. [Configuration d'une IP fixe]
-3. [Pour aller plus loin dans la configuration](aller-plus-loin)
+3. [Pour aller plus loin dans la configuration](#aller-plus-loin)
       1. [Sécuriser la connexion via le bureau à distance]
       2. [Sécuriser la connexion via Tight VNC]
       3. [Facilier la connexion via un script PowerShell]
@@ -182,7 +182,7 @@ Et justement, sur l'affichage suivant on a désactivé la partie "Viewer", qui c
 <p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2054.png" alt=""></p>
 ![image](https://github.com/user-attachments/assets/5fafcac2-9285-41d5-b429-d961e50a6d59)
 
-### 3. Pour aller plus loin dans la configuration
+## 3. Pour aller plus loin dans la configuration
 
 
 
