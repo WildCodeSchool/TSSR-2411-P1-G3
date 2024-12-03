@@ -12,7 +12,7 @@
       1. [Configuration de la VM](#configuration-de-la-vm-windows-server-2022)
       2. [Installation de Windows Server 2022](#installation-de-windows-server-2022)
       3. [Renommage du PC](#renommage-du-pc-windows-server-2022)
-      4. [Ajout du compte "Administrator"](#ajout-du-compte-administrator)
+      4. [Ajout du compte Administrator](#ajout-du-compte-administrator)
       5. [Activation et configuration du bureau à distance](#activation-et-configuration-du-bureau-a-distance-windows-server-2022)
       6. [Téléchargement et installation de TightVNC](#installation-de-tightvnc-windows-server-2022)
       7. [Mises à jour Windows Update](#mises-a-jour-windows-update-windows-server-2022)
@@ -170,7 +170,7 @@ Disque : 60 Go
 <p align="center"><img width="50%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2014.png" alt=""></p>
 <p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2015.png" alt=""></p>
 
-### 4. Ajout du compte "Administrator"
+### 4. Ajout du compte Administrator
 
 
 <p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2016.png" alt=""></p>
