@@ -44,8 +44,10 @@ TightVNC permet de prendre le contrôle à distance (ou prise de main) d'un autr
   <br>
 
 ## Solutions trouvées
+ - Connexion sur le même réseaux
 
   <br>
 
 ## Suggestions d'améliorations possibles :
 - Une interfase graphique moins archaïque et plus développé
+- Choix d'un mot de passe de session beaucoup plus complexe pour sécurisé l'accès
