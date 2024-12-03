@@ -3,7 +3,6 @@
 
 
 
-# Etapes d'installation et de configuration
 # FAQ
 
 
@@ -34,6 +33,7 @@ On a choisi l'installation "Typical" pour pouvoir se concentrer sur la partie se
 
 Et justement, sur l'affichage suivant on a désactivé la partie "Viewer", qui correspond à la partie utilisée par le client. (ph103)
 
+# 1. Prérequis Technique
 
 
 <p align="center"><img width="50%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2001.png" alt=""></p>
