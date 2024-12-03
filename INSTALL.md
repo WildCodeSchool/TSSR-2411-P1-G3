@@ -1,26 +1,27 @@
 1. [Prérequis technique](#1-prérequis-technique)
-2. [Installation de base des systèmes et de leur environnement
-   1. [Machine client sous Windows 10](#machine-windows-10)
-      1. [Configuation de la VM]
-      2. [Installation de Windows 10]
-      3. [Renommage du PC]
-      4. [Activation et configuration du bureau à distance]
-      5. [Téléchargement et installation de TighVNC]
-      6. [Mises à jour Windows Update]
-      7. [Configuration d'une IP fixe]
-   1. [Machine administrateur sous Windows Server 2022](#machine-windows-server-2022)
-      1. [Configuation de la VM]
-      2. [Installation de Windows Server 2022]
-      3. [Renommage du PC]
-      4. [Ajout du compte "Administrator"]
-      5. [Activation et configuration du bureau à distance]
-      6. [Téléchargement et installation de TighVNC]
-      7. [Mises à jour Windows Update]
-      8. [Configuration d'une IP fixe]
-3. [Pour aller plus loin dans la configuration](#aller-plus-loin)
-      1. [Sécuriser la connexion via le bureau à distance]
-      2. [Sécuriser la connexion via Tight VNC]
-      3. [Facilier la connexion via un script PowerShell]
+2. Installation de base des systèmes et de leur environnement
+   1. [Machine client sous Windows 10](#machine-client-sous-windows-10)
+      1. [Configuration de la VM](#configuration-de-la-vm-windows-10)
+      2. [Installation de Windows 10](#installation-de-windows-10)
+      3. [Renommage du PC](#renommage-du-pc-windows-10)
+      4. [Activation et configuration du bureau à distance](#activation-et-configuration-du-bureau-a-distance-windows-10)
+      5. [Téléchargement et installation de TightVNC](#installation-de-tightvnc-windows-10)
+      6. [Mises à jour Windows Update](#mises-a-jour-windows-update-windows-10)
+      7. [Configuration d'une IP fixe](#configuration-ip-fixe-windows-10)
+   2. [Machine administrateur sous Windows Server 2022](#machine-administrateur-sous-windows-server-2022)
+      1. [Configuration de la VM](#configuration-de-la-vm-windows-server-2022)
+      2. [Installation de Windows Server 2022](#installation-de-windows-server-2022)
+      3. [Renommage du PC](#renommage-du-pc-windows-server-2022)
+      4. [Ajout du compte "Administrator"](#ajout-du-compte-administrator)
+      5. [Activation et configuration du bureau à distance](#activation-et-configuration-du-bureau-a-distance-windows-server-2022)
+      6. [Téléchargement et installation de TightVNC](#installation-de-tightvnc-windows-server-2022)
+      7. [Mises à jour Windows Update](#mises-a-jour-windows-update-windows-server-2022)
+      8. [Configuration d'une IP fixe](#configuration-ip-fixe-windows-server-2022)
+3. [Pour aller plus loin dans la configuration](#pour-aller-plus-loin-dans-la-configuration)
+   1. [Sécuriser la connexion via le bureau à distance](#securiser-connexion-bureau-a-distance)
+   2. [Sécuriser la connexion via Tight VNC](#securiser-connexion-tight-vnc)
+   3. [Faciliter la connexion via un script PowerShell](#faciliter-connexion-powershell)
+
 
 
 # FAQ
@@ -182,7 +183,52 @@ Et justement, sur l'affichage suivant on a désactivé la partie "Viewer", qui c
 <p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2054.png" alt=""></p>
 ![image](https://github.com/user-attachments/assets/5fafcac2-9285-41d5-b429-d961e50a6d59)
 
-## 3. Pour aller plus loin dans la configuration
+# 1. Prérequis technique
+
+# 2. Installation de base des systèmes et de leur environnement
+
+## Machine client sous Windows 10
+
+### Configuration de la VM Windows 10
+
+### Installation de Windows 10
+
+### Renommage du PC Windows 10
+
+### Activation et configuration du bureau à distance Windows 10
+
+### Installation de TightVNC Windows 10
+
+### Mises à jour Windows Update Windows 10
+
+### Configuration d'une IP fixe Windows 10
+
+## Machine administrateur sous Windows Server 2022
+
+### Configuration de la VM Windows Server 2022
+
+### Installation de Windows Server 2022
+
+### Renommage du PC Windows Server 2022
+
+### Ajout du compte "Administrator"
+
+### Activation et configuration du bureau à distance Windows Server 2022
+
+### Installation de TightVNC Windows Server 2022
+
+### Mises à jour Windows Update Windows Server 2022
+
+### Configuration d'une IP fixe Windows Server 2022
+
+# 3. Pour aller plus loin dans la configuration
+
+## Sécuriser la connexion via le bureau à distance
+
+## Sécuriser la connexion via Tight VNC
+
+## Faciliter la connexion via un script PowerShell
+
 
 
 
