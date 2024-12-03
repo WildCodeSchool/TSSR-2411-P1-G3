@@ -1,23 +1,26 @@
 1. [Prérequis technique](#1-prérequis-technique)
-2. Installation de base des systèmes et de leur environnement
-   1. [Machine client sous Windows 10](#etapes-d-installation-et-de-configuration)
-      1. Configuation de la VM
-      2. Installation de Windows 10
-      3. Renommage du PC
-      4. Activation et configuration du bureau à distance
-      5. Téléchargement et installation de TighVNC
-      6. Mises à jour Windows Update
-      7. Configuration d'une IP fixe
-   1. [Machine administrateur sous Windows Server 2022](#etapes-d-installation-et-de-configuration)
-      1. Configuation de la VM
-      2. Installation de Windows Server 2022
-      3. Renommage du PC
-      4. Ajout du compte "Administrator"
-      5. Activation et configuration du bureau à distance
-      6. Téléchargement et installation de TighVNC
-      7. Mises à jour Windows Update
-      8. Configuration d'une IP fixe
-
+2. [Installation de base des systèmes et de leur environnement
+   1. [Machine client sous Windows 10](#machine-windows-10)
+      1. [Configuation de la VM]
+      2. [Installation de Windows 10]
+      3. [Renommage du PC]
+      4. [Activation et configuration du bureau à distance]
+      5. [Téléchargement et installation de TighVNC]
+      6. [Mises à jour Windows Update]
+      7. [Configuration d'une IP fixe]
+   1. [Machine administrateur sous Windows Server 2022](#machine-windows-server-2022)
+      1. [Configuation de la VM]
+      2. [Installation de Windows Server 2022]
+      3. [Renommage du PC]
+      4. [Ajout du compte "Administrator"]
+      5. [Activation et configuration du bureau à distance]
+      6. [Téléchargement et installation de TighVNC]
+      7. [Mises à jour Windows Update]
+      8. [Configuration d'une IP fixe]
+3. [Pour aller plus loin dans la configuration](aller-plus-loin)
+      1. [Sécuriser la connexion via le bureau à distance]
+      2. [Sécuriser la connexion via Tight VNC]
+      3. [Facilier la connexion via un script PowerShell]
 
 
 # FAQ
@@ -179,7 +182,7 @@ Et justement, sur l'affichage suivant on a désactivé la partie "Viewer", qui c
 <p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2054.png" alt=""></p>
 ![image](https://github.com/user-attachments/assets/5fafcac2-9285-41d5-b429-d961e50a6d59)
 
-
+### 3. Pour aller plus loin dans la configuration
 
 
 
