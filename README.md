@@ -40,14 +40,16 @@ TightVNC permet de prendre le contrôle à distance (ou prise de main) d'un autr
 
 ## Difficultées rencontrées
 - Difficulté à se connecter sur deux réseaux différents (avec deux adresses IP différentes)
+- Difficulté à renforcer la sécurité des connexions avec Tight VNC et bureau à distance
 
   <br>
 
 ## Solutions trouvées
- - Connexion sur le même réseaux
+ - Connexion sur le même réseaux avec une même adresse IP
 
   <br>
 
 ## Suggestions d'améliorations possibles :
 - Une interfase graphique moins archaïque et plus développé
 - Choix d'un mot de passe de session beaucoup plus complexe pour sécurisé l'accès
+- Utiliser un tunnel SSH pour renforcer la sécurité de connexion avec TightVNC
