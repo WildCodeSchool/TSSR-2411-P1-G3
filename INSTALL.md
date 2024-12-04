@@ -18,7 +18,7 @@
       7. [Mises à jour Windows Update](#7-mises-à-jour-windows-update-windows-server-2022)
       8. [Configuration d'une IP fixe](#8-configuration-dune-ip-fixe-windows-server-2022)
 3. [Pour aller plus loin dans la configuration](#3-pour-aller-plus-loin-dans-la-configuration)
-   1. [Sécuriser la connexion via le bureau à distance](#-1sécuriser-la-connexion-via-le-bureau-à-distance)
+   1. [Sécuriser la connexion via le bureau à distance](#1-sécuriser-la-connexion-via-le-bureau-à-distance)
    2. [Sécuriser la connexion via TightVNC](#2-sécuriser-la-connexion-via-tightvnc)
    3. [Faciliter la connexion via un script PowerShell](#3-faciliter-la-connexion-via-un-script-powershell)
 4. [FAQ](#4-FAQ)
