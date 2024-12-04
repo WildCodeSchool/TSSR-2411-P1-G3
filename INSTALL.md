@@ -191,15 +191,22 @@ Mettez bien à jour votre OS Windows 10 comme cela :
 <p align="center">Vous êtes maintenant à jour !</p>
 
 ### 7. Configuration d'une IP fixe Windows 10
-
+Pour configurer une IP fixe sur Windows 10 voici la procédure :
 
 <p align="center"><img src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2033.png" alt=""></p>
+<p align="center">Tapez "cmd" dans la barre Windows pour accéder aux invite de commandes</p>
 <p align="center"><img width="90%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2034.png" alt=""></p>
+<p align="center">Vous arrivez dans l'invite de commande. Tapez "ipconfig" et voyez ce que l'ordinateur vous affiche. récupérez "l'adresse IPv4"</p>
 <p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2035.png" alt=""></p>
+<p align="center">Dans les paramètres, chercher la section "réseaux et Internet" et choisissez " Ethernet" Cliquez sur " Modifier les options d'adaptateur"</p>
 <p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2036.png" alt=""></p>
+<p align="center">Faites un clique droit sur Eternet0 et choisissez "propriétés"</p>
 <p align="center"><img width="50%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2037.png" alt=""></p>
+<p align="center">Aller dans "Gestion de réseau" et choisissez " protocole internet version 4( TCP/IPv4)" puis "Propriétés"</p>
 <p align="center"><img width="50%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2038.png" alt=""></p>
+<p align="center">Choisissez "Utiliser l'adresse IP suivante" comme indiqué sur la capture d'écran puis cliquez sur "ok"</p>
 <p align="center"><img width="90%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2039.png" alt=""></p>
+<p align="center">Quand vous retournerez dans l'invite de commande et que vous taperez à nouveau la commande "ipconfig" vous vous apercevrez que l'adresse IPV4 aura changé. La configuration est terminée.</p>
 
 ## 2. Machine administrateur sous Windows Server 2022
 
@@ -207,10 +214,15 @@ Mettez bien à jour votre OS Windows 10 comme cela :
 
 
 <p align="center"><img width="50%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2001.png" alt=""></p>
+<p align="center">créer une nouvelle machine virtuelle, choisissez " Microsoft Windows" et la version "Windows server 2022" puis "next"</p>
 <p align="center"><img width="50%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2002.png" alt=""></p>
+<p align="center">Nommer votre machine virtuelle et placer la ou vous le souhaitez et cliquez sur "Next"</p>
 <p align="center"><img width="50%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2003.png" alt=""></p>
+<p align="center">Choisissez de crée un disque virtuelle local comme indiqué et cliquez sur "Next"</p>
 <p align="center"><img width="50%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2004.png" alt=""></p>
+<p align="center">Choisissez "Customize Hardware"</p>
 <p align="center"><img src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2005.png" alt=""></p>
+<p align="center">Télécharger l'ISO de votre choix (ici un ISO de Windows Server 2022) dans"NEW CD/DVD(SATA)" et fermez avec "close"</p>
 
 ### 2. Installation de Windows Server 2022
 
