@@ -4,11 +4,11 @@
 ## Sommaire
 
 1. [Prérequis technique](#1-prérequis-technique)
-2. [Installation de base des systèmes et de leur environnement](#2.1-installation-de-base-des-systèmes-et-de-leur-environnement)
+2. [Installation de base des systèmes et de leur environnement](#2-installation-de-base-des-systèmes-et-de-leur-environnement)
    1. [Machine client sous Windows 10](#1-machine-client-sous-windows-10)
-      1. [Configuration de la VM](#2-1-1-configuration-de-la-vm-windows-10)
-      2. [Installation de Windows 10](#2-1-2-installation-de-windows-10)
-      3. [Renommage du PC](#2-1-3-renommage-du-pc-windows-10)
+      1. [Configuration de la VM](#1-configuration-de-la-vm-windows-10)
+      2. [Installation de Windows 10](#2-installation-de-windows-10)
+      3. [Renommage du PC](#2-renommage-du-pc-windows-10)
       4. [Activation et configuration du bureau à distance](#2-1-4-activation-et-configuration-du-bureau-à-distance-windows-10)
       5. [Téléchargement et installation de TightVNC](#2-1-5-installation-de-tightvnc-windows-10)
       6. [Mises à jour Windows Update](#2-1-6-mises-à-jour-windows-update-windows-10)
