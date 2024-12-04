@@ -122,44 +122,73 @@ Si vous avez besoin de renommer votre utilisateur pc , voici comment procéder :
 
 ### 4. Activation et configuration du bureau à distance Windows 10
 
+Voici la marche à suivre pour configurer le bureau à distance sur Windows 10 ainsi qu'un raccourci cliquable que l'on va installer sur le bureau afin de faciliter la connexion :
+
 
 <p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2031.png" alt=""></p>
+<p align="center">Retourner dans "Système" et choisissez "Bureau à distance" puis activer l'interrupteur</p>
 <p align="center"><img width="50%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2032.png" alt=""></p>
+<p align="center">Confirmer l'activation</p>
 <p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2032a.png" alt=""></p>
+<p align="center">Vous voyez en revenant dans le bureau à distance que l'interrupteur est activé</p>
 <p align="center"><img width="50%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2040.png" alt=""></p>
+<p align="center">Ensuite, ouvrez le bureau à distance et rentrez le nom du serveur auquel vous voulez vous connecter et son nom d'utilisateur pour vous connecter à distance puis faites "connexion"</p>
 <p align="center"><img width="50%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2052.png" alt=""></p>
+<p align="center">Une fenêtre va s'ouvrir vous indiquant qu'il est impossible de s'autentifier en raison de problème liés au certificat de sécurité.Choisissez " afficher le certificat"</p>
 <p align="center"><img width="50%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2053.png" alt=""></p>
+<p align="center">Choisissez "installer un certificat " et cliquez sur ok</p>
 <p align="center"><img width="50%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2054.png" alt=""></p>
+<p align="center">Choisissez "ordinateur local" et suivant</p>
 <p align="center"><img width="50%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2055.png" alt=""></p>
+<p align="center">Choisissez "oui"</p>
 <p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2056.png" alt=""></p>
+<p align="center">Choisissez " placer tout les certificats dans le magasin suivant et arcourez le magasin de certificats et choisissez " autorité de certification racines de confiance"
 <p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2057.png" alt=""></p>
+<p align="center"> Une fois le bon certificat choisi, faite suivant,
 <p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2058.png" alt=""></p>
+<p align="center">Terminer les modification</p>
 <p align="center"><img width="50%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2059.png" alt=""></p>
+<p align="center">Un pop-up vous annonce que l'importation à réussi</p>
 <p align="center"><img width="50%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2060.png" alt=""></p>
+<p align="center">de retour dans le menu de connexion bureau à distance, Choisissez "enregistrer sous"</p>
 <p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2061.png" alt=""></p>
+<p align="center">Créer un raccourci sur le bureau et enregistrer le</p>
 <p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2062.png" alt=""></p>
+<p align="center">Voila, vous avez votre raccourci de connexion bureau à distance prêt à l'emploi !</p>
 
 
 ### 5. Installation de TightVNC Windows 10
+Nous allons passer à l'installation de TightVNC, voila la procédure :
 
 
 <p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2032b.png" alt=""></p>
+<p align="center">Rendez-vous sur le site de TightVNC et choisissez la dernière version à jours correspondant à votre OS (dans notre cas, sa sera la version 2.8.85 pour Windows). Télécharger le.</p>
 <p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2032c.png" alt=""></p>
+<p align="center">Une fois installé, ouvrer le.</p>
 <p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2032d.png" alt=""></p>
+<p align="center">Choisissez "next"</p>
 <p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2032e.png" alt=""></p>
+<p align="center">Pour l'installation, nous allons choisir l'installation "Custom" puis faites "next"</p>
 <p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2032f.png" alt=""></p>
+<p align="center">Dans le "Custom Setup" cliquer sur "TightVCN Server" et choisissez " Entire feature will be unavailable"</p>
 <p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2032g.png" alt=""></p>
+<p align="center">Puis faite "Next"</p>
 <p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2032h.png" alt=""></p>
+<p align="center">Si ce n'est pas le cas, cocher " Associate.vnc files with TightVNC Viewer" puis choisissez "Next"</p>
 <p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2032i.png" alt=""></p>
+<p align="center">Choisissez "oui"</p>
 <p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2032j.png" alt=""></p>
-
+<p align="center">Puis terminer l'installation en cliquant sur "finish"</p>
 
 ### 6. Mises à jour Windows Update Windows 10
-
+Mettez bien à jour votre OS Windows 10 comme cela :
 
 <p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2032k.png" alt=""></p>
+<p align="center">Dans votre barre de recherche, tapez "Rechercher des mises à jour" et accédez au panneau de mise à jour. choisissez "Recherches des mises à jour"</p>
 <p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2032l.png" alt=""></p>
+<p align="center">Si des mises à jour on été trouvées, téléchargé les et redémarrer votre ordinateur</p>
 <p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2032m.png" alt=""></p>
+<p align="center">Vous êtes maintenant à jour !</p>
 
 ### 7. Configuration d'une IP fixe Windows 10
 
