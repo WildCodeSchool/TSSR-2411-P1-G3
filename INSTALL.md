@@ -79,18 +79,29 @@ Disque : 60 Go
 <p align="center"><img src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2012.png" alt=""></p>
 <p align="center">Si vous n'avez pas de compte, choisissez "compte Hors connexion"</p>
 <p align="center"><img src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2013.png" alt=""></p>
+<p align="center">Choisissez "Experience limité" puis, cliquez sur suivant</p>
 <p align="center"><img src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2014.png" alt=""></p>
+<p align="center">Nommer votre Utilisateur</p>
 <p align="center"><img src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2015.png" alt=""></p>
+<p align="center">Créer un mot de passe afin de sécuriser votre accès</p>
 <p align="center"><img src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2016.png" alt=""></p>
+<p align="center">Choisissez "Pas maintenant." puis, cliquez sur suivant</p>
 <p align="center"><img src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2017.png" alt=""></p>
+<p align="center">Choissisez "non" puis, accepter.</p>
 <p align="center"><img src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2018.png" alt=""></p>
+<p align="center">Encore une fois "non " puis accepter</p>
 <p align="center"><img src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2019.png" alt=""></p>
+<p align="center">Choisissez" Envoyer les données de diagnostic obligatoires" puis, accepter</p>
 <p align="center"><img src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2020.png" alt=""></p>
+<p align="center">Choissisez "non" puis, accepter.</p>
 <p align="center"><img src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2021.png" alt=""></p>
+<p align="center">Encore une fois "non " puis accepter</p>
 <p align="center"><img src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2022.png" alt=""></p>
+<p align="center">Encore une fois "non " puis accepter</p>
 <p align="center"><img src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2023.png" alt=""></p>
+<p align="center">Vous etes libres de personnaliser votre expérience, sinon ignorer cette étape</p>
 <p align="center"><img src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2024.png" alt=""></p>
-
+<p align="center">Choisissez "Pas maintenant"</p>
 
 ### 3. Renommage du PC Windows 10
 
