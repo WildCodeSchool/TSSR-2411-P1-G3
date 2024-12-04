@@ -27,21 +27,21 @@
 # 1. Prérequis technique
 
 ## Côté client
-OS : Windows Server 2022 version
-Machine virtuelle utilisée : VMware Workstation
-Configuration VM :
-Processeur : 4 coeurs
-RAM : 4 Go
-Disque : 60 Go
+- OS : Windows 10 Professionnel version 22h2
+- Machine virtuelle utilisée : VMware Workstation
+- Configuration VM :
+   - Processeur : 4 coeurs
+   - RAM : 4 Go
+   - Disque : 60 Go
 
 
 ## Côté serveur
-OS : Windows Server 2022 version
-Machine virtuelle utilisée : VMware Workstation
-Configuration VM :
-Processeur : 4 coeurs
-RAM : 4 Go
-Disque : 60 Go
+- OS : Windows Server 2022 Standard Evaluation 21h2
+- Machine virtuelle utilisée : VMware Workstation
+- Configuration VM :
+   - Processeur : 4 coeurs
+   - RAM : 4 Go
+   - Disque : 60 Go
 
 
 # 2. Installation de base des systèmes et de leur environnement
