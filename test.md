@@ -5,7 +5,7 @@
 
 1. [Prérequis technique](#1-prérequis-technique)
 2. [Installation de base des systèmes et de leur environnement](#2-installation-de-base-des-systèmes-et-de-leur-environnement)
-   1. [Machine client sous Windows 10](#2-1-machine-client-sous-windows-10)
+   1. [Machine client sous Windows 10](#1-machine-client-sous-windows-10)
       1. [Configuration de la VM](#2-1-1-configuration-de-la-vm-windows-10)
       2. [Installation de Windows 10](#2-1-2-installation-de-windows-10)
       3. [Renommage du PC](#2-1-3-renommage-du-pc-windows-10)
