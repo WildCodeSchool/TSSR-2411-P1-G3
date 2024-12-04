@@ -28,27 +28,27 @@
    3. [Faciliter la connexion via un script PowerShell](#3-3-faciliter-la-connexion-via-un-script-powershell)
 4. [FAQ](#4-faq)
 
-## 1. Prérequis technique
+# 1. Prérequis technique
 
 *(Contenu à compléter)*
 
-## 2. Installation de base des systèmes et de leur environnement
+# 2. Installation de base des systèmes et de leur environnement
 
-### 2.1 Machine client sous Windows 10
+## 2.1 Machine client sous Windows 10
 
-#### 2.1.1 Configuration de la VM Windows 10
-
-*(Contenu à compléter)*
-
-#### 2.1.2 Installation de Windows 10
+### 2.1.1 Configuration de la VM Windows 10
 
 *(Contenu à compléter)*
 
-#### 2.1.3 Renommage du PC Windows 10
+### 2.1.2 Installation de Windows 10
 
 *(Contenu à compléter)*
 
-#### 2.1.4 Activation et configuration du bureau à distance Windows 10
+### 2.1.3 Renommage du PC Windows 10
+
+*(Contenu à compléter)*
+
+### 2.1.4 Activation et configuration du bureau à distance Windows 10
 
 *(Contenu à compléter)*
 
