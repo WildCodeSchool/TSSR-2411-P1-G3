@@ -21,7 +21,7 @@
    1. [Sécuriser la connexion via le bureau à distance](#-1sécuriser-la-connexion-via-le-bureau-a-distance)
    2. [Sécuriser la connexion via TightVNC](#2-sécuriser-la-connexion-via-tightvnc)
    3. [Faciliter la connexion via un script PowerShell](#3-faciliter-la-connexion-via-un-script-powershell)
-4. [FAQ](#-FAQ)
+4. [FAQ](#4-FAQ)
 
 # 1. Prérequis technique
 
