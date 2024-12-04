@@ -1,3 +1,225 @@
+
+# Configuration de Machines Virtuelles Windows
+
+## Sommaire
+
+1. [Prérequis technique](#1-prérequis-technique)
+2. [Installation de base des systèmes et de leur environnement](#2-installation-de-base-des-systèmes-et-de-leur-environnement)
+   1. [Machine client sous Windows 10](#2-1-machine-client-sous-windows-10)
+      1. [Configuration de la VM](#2-1-1-configuration-de-la-vm-windows-10)
+      2. [Installation de Windows 10](#2-1-2-installation-de-windows-10)
+      3. [Renommage du PC](#2-1-3-renommage-du-pc-windows-10)
+      4. [Activation et configuration du bureau à distance](#2-1-4-activation-et-configuration-du-bureau-à-distance-windows-10)
+      5. [Téléchargement et installation de TightVNC](#2-1-5-installation-de-tightvnc-windows-10)
+      6. [Mises à jour Windows Update](#2-1-6-mises-à-jour-windows-update-windows-10)
+      7. [Configuration d'une IP fixe](#2-1-7-configuration-dune-ip-fixe-windows-10)
+   2. [Machine administrateur sous Windows Server 2022](#2-2-machine-administrateur-sous-windows-server-2022)
+      1. [Configuration de la VM](#2-2-1-configuration-de-la-vm-windows-server-2022)
+      2. [Installation de Windows Server 2022](#2-2-2-installation-de-windows-server-2022)
+      3. [Renommage du PC](#2-2-3-renommage-du-pc-windows-server-2022)
+      4. [Ajout du compte Administrator](#2-2-4-ajout-du-compte-administrator)
+      5. [Activation et configuration du bureau à distance](#2-2-5-activation-et-configuration-du-bureau-à-distance-windows-server-2022)
+      6. [Téléchargement et installation de TightVNC](#2-2-6-installation-de-tightvnc-windows-server-2022)
+      7. [Mises à jour Windows Update](#2-2-7-mises-à-jour-windows-update-windows-server-2022)
+      8. [Configuration d'une IP fixe](#2-2-8-configuration-dune-ip-fixe-windows-server-2022)
+3. [Pour aller plus loin dans la configuration](#3-pour-aller-plus-loin-dans-la-configuration)
+   1. [Sécuriser la connexion via le bureau à distance](#3-1-sécuriser-la-connexion-via-le-bureau-à-distance)
+   2. [Sécuriser la connexion via TightVNC](#3-2-sécuriser-la-connexion-via-tightvnc)
+   3. [Faciliter la connexion via un script PowerShell](#3-3-faciliter-la-connexion-via-un-script-powershell)
+4. [FAQ](#4-faq)
+
+## 1. Prérequis technique
+
+*(Contenu à compléter)*
+
+## 2. Installation de base des systèmes et de leur environnement
+
+### 2.1 Machine client sous Windows 10
+
+#### 2.1.1 Configuration de la VM Windows 10
+
+*(Contenu à compléter)*
+
+#### 2.1.2 Installation de Windows 10
+
+*(Contenu à compléter)*
+
+#### 2.1.3 Renommage du PC Windows 10
+
+*(Contenu à compléter)*
+
+#### 2.1.4 Activation et configuration du bureau à distance Windows 10
+
+*(Contenu à compléter)*
+
+#### 2.1.5 Installation de TightVNC Windows 10
+
+*(Contenu à compléter)*
+
+#### 2.1.6 Mises à jour Windows Update Windows 10
+
+*(Contenu à compléter)*
+
+#### 2.1.7 Configuration d'une IP fixe Windows 10
+
+*(Contenu à compléter)*
+
+### 2.2 Machine administrateur sous Windows Server 2022
+
+#### 2.2.1 Configuration de la VM Windows Server 2022
+
+*(Contenu à compléter)*
+
+#### 2.2.2 Installation de Windows Server 2022
+
+*(Contenu à compléter)*
+
+#### 2.2.3 Renommage du PC Windows Server 2022
+
+*(Contenu à compléter)*
+
+#### 2.2.4 Ajout du compte Administrator
+
+*(Contenu à compléter)*
+
+#### 2.2.5 Activation et configuration du bureau à distance Windows Server 2022
+
+*(Contenu à compléter)*
+
+#### 2.2.6 Installation de TightVNC Windows Server 2022
+
+*(Contenu à compléter)*
+
+#### 2.2.7 Mises à jour Windows Update Windows Server 2022
+
+*(Contenu à compléter)*
+
+#### 2.2.8 Configuration d'une IP fixe Windows Server 2022
+
+*(Contenu à compléter)*
+
+## 3. Pour aller plus loin dans la configuration
+
+### 3.1 Sécuriser la connexion via le bureau à distance
+
+*(Contenu à compléter)*
+
+### 3.2 Sécuriser la connexion via TightVNC
+
+*(Contenu à compléter)*
+
+### 3.3 Faciliter la connexion via un script PowerShell
+
+*(Contenu à compléter)*
+
+## 4. FAQ
+
+*(Contenu à compléter)*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Documentation Administrateur
 
  1. [Prérequis technique](#1-prérequis-technique)
