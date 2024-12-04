@@ -1,5 +1,5 @@
 1. [Prérequis technique](#1-prérequis-technique)
-2. [Installation de base des systèmes et de leur environnement](#2-installation-de-base-des-systemes-et-de-leur-environnement)
+2. [Installation de base des systèmes et de leur environnement](#2-installation-de-base-des-systèmes-et-de-leur-environnement)
    1. [Machine client sous Windows 10](#1machine-client-sous-windows-10)
       1. [Configuration de la VM](#1configuration-de-la-vm-windows-10)
       2. [Installation de Windows 10](#2installation-de-windows-10)
