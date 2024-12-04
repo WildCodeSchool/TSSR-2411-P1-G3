@@ -104,15 +104,21 @@ Disque : 60 Go
 <p align="center">Choisissez "Pas maintenant"</p>
 
 ### 3. Renommage du PC Windows 10
-
+Si vous avez besoin de renommer votre utilisateur pc , voici comment procéder :
 
 
 <p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2025.png" alt=""></p>
+<p align="center">Choisissez "Système"</p>
 <p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2026.png" alt=""></p>
+<p align="center">Aller dans "A propos de"</p>
 <p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2027.png" alt=""></p>
+<p align="center">Et la, choisissez "renommer ce pc"</p>
 <p align="center"><img width="50%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2028.png" alt=""></p>
+<p align="center">Donner lui le nom voulu</p>
 <p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2029.png" alt=""></p>
+<p align="center">Vous verrez donc le nouveau nom choisi quand vous reviendrais dans " A propos de"</p>
 <p align="center"><img width="50%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2030.png" alt=""></p>
+<p align="center">L'ordinateur vous conseillera de redémarrer, accepter et attendez le redémarrage.</p>
 
 ### 4. Activation et configuration du bureau à distance Windows 10
 
