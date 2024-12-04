@@ -34,13 +34,13 @@
 
 # 2. Installation de base des systèmes et de leur environnement
 
-## 2.1 Machine client sous Windows 10
+## 1. Machine client sous Windows 10
 
-### 2.1.1 Configuration de la VM Windows 10
+### 1. Configuration de la VM Windows 10
 
 *(Contenu à compléter)*
 
-### 2.1.2 Installation de Windows 10
+### 2. Installation de Windows 10
 
 *(Contenu à compléter)*
 
