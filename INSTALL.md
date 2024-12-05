@@ -333,33 +333,32 @@ Voila le procédé pour installer TightVNC sur votre serveur:
 
 
 ### 7. Mises à jour Windows Update Windows Server 2022
-
-
-<br><p align="center"><img width="70% src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2028a.png" alt=""></p>
+On va vérifier si notre serveur est bien à jour :
 
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2028b.png" alt=""></p>
-
+<p align="center">:arrow_forward:Dans les paramètres du pc, choisissez "Windows update". Si des mises à jours sont en attentes, effectuées-les.</p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2028c.png" alt=""></p>
-
+<p align="center">:arrow_forward:Vous devrez redémarrer votre pc pour que les mises à jours soient bien actives</p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2028d.png" alt=""></p>
-
+<p align="center">:arrow_forward:Quand vous reviendrez dans vos paramètres, Windows sera à jour !</p>
 
 ### 8. Configuration d'une IP fixe Windows Server 2022
+On vas également configurer l'adresse IP pour le serveur :
 
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2028.png" alt=""></p>
-
+<p align="center">:arrow_forward:Pour ça , taper "cmd" dans votre barre de recherche Windows. Cela vous ouvrir votre invitation de commande</p>
 <br><p align="center"><img width="90%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2029.png" alt=""></p>
-
+<p align="center">:arrow_forward:Tapez ensuite "ipconfig". Nous allons changer l'adresse IPV4 afin d'assurer la connexion</p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2030.png" alt=""></p>
-
+<p align="center">:arrow_forward:Rendez vous dans les paramètres de votre ordinateur et plus précisément dans " Réseau et Internet" et "Ethernet". Choisissez "Modifier les options d'adaptateur"</p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2031.png" alt=""></p>
-
+<p align="center">:arrow_forward:Clique droit sur "Ethernet()" et choisissez "propriété"</p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2032.png" alt=""></p>
-
+<p align="center">:arrow_forward:Dans l'onglet "Gestion de réseau" choisissez "protocole internet version 4 (TCP/IPV4), puis, "Propriétés"</p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2033.png" alt=""></p>
-
+<p align="center">:arrow_forward:Cliquez sur " Utilisez l'adresse IP suivante" puis "OK"</p>
 <br><p align="center"><img width="90%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2034.png" alt=""></p>
-
+<p align="center">:arrow_forward:Si vous revenez en arrière dans votre invitation de commande, votre adresse IPV4 aura été modifié avec succès !</p>
 
 
 # 3. Pour aller plus loin dans la configuration
