@@ -226,53 +226,88 @@ Pour configurer une IP fixe sur Windows 10 voici la procédure :
 <p align="center">:arrow_forward: Télécharger l'ISO de votre choix (ici un ISO de Windows Server 2022) dans"NEW CD/DVD(SATA)" et fermez avec "close"</p>
 
 ### 2. Installation de Windows Server 2022
+Voici la procédure pour installer votre serveur Windows 2022 :
 
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2006.png" alt=""></p>
+<p align="center">:arrow_forward:Choisissez la langue</p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2007.png" alt=""></p>
+<p align="center">:arrow_forward:Installer le logiciel</p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2008.png" alt=""></p>
+<p align="center">:arrow_forward:Choisissez Windows server 2022 Standard Evaluation</p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2009.png" alt=""></p>
+<p align="center">:arrow_forward:Choisissez un emplacement pour installer le logiciel</p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2010.png" alt=""></p>
+<p align="center">Choisissez vos paramètres de personnalisation (Nom d'utilisateur, Mot de passe ect)</p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2011.png" alt=""></p>
+<p align="center">:arrow_forward: L'installation est terminée</p>
 
 ### 3. Renommage du PC Windows Server 2022
-
+Voici un process pour renommer votre PC :
 
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2012.png" alt=""></p>
+<p align="center">:arrow_forward:Dans les paramètres de votre ordinateur, choisissez " à propos de" puis, "renommer ce pc"</p>
 <br><p align="center"><img width="50%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2013.png" alt=""></p>
+<p align="center">:arrow_forward:Dans les paramètres de votre ordinateur, choisissez " à propos de" puis, "renommer ce pc"</p>
 <br><p align="center"><img width="50%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2014.png" alt=""></p>
+<p align="center">:arrow_forward:L'ordinateur va vous demander de redémarrer pour finaliser le changement</p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2015.png" alt=""></p>
+<p align="center">:arrow_forward:En retournant dans vos paramètres après le redémarrage, vous constatez comme sur la capture ci dessus que le pc à bien été renommé !</p>
 
 ### 4. Ajout du compte Administrator
-
+Voici un procéder pour ajouter un compte administrateur :
 
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2016.png" alt=""></p>
+<p align="center">:arrow_forward:Dans le panneau de configuration de votre ordinateur, choisissez "Comptes d'utilisateurs"</p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2017.png" alt=""></p>
+<p align="center">:arrow_forward:cliquez sur "Comptes d'utilisateurs"</p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2018.png" alt=""></p>
+<p align="center">:arrow_forward:Puis, " Gérer un autre compte"</p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2019.png" alt=""></p>
+<p align="center">:arrow_forward:Choisissez "Ajouter un compte d'utilisateur"</p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2020.png" alt=""></p>
+<p align="center">:arrow_forward:Ajouter vos informations (nom et mot de passe) puis "Suivant"</p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2021.png" alt=""></p>
+<p align="center">:arrow_forward:Cliquez sur "Terminer"</p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2022.png" alt=""></p>
+<p align="center">:arrow_forward:Cliquez sur votre compte fraichement créé</p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2023.png" alt=""></p>
+<p align="center">:arrow_forward:Puis, "Modifier le type de compte"</p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2024.png" alt=""></p>
+<p align="center">:arrow_forward:Choisissez "Administrateur" Puis, "Modifier le type de compte"</p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2025.png" alt=""></p>
+<p align="center">:arrow_forward:Vous constaterez que votre compte à bien été modifier comme ci dessus</p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2026.png" alt=""></p>
+<p align="center">:arrow_forward:Déconnectez vous de votre ordinateur</p>
 <br><p align="center"><img src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2027.png" alt=""></p>
+<p align="center">:arrow_forward:Choisissez et connectez vous à votre nouveau compte Admin et voila !</p>
 
 
 ### 5. Activation et configuration du bureau à distance Windows Server 2022
+C'est parti pour la configuration du bureau à distance sur le serveur Windows :
+
 
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2031.png" alt=""></p>
+<p align="center">:arrow_forward:Dans les paramètres du pc, aller dans "bureau à distance" et activé l'interrupteur</p>
 <br><p align="center"><img width="50%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2032.png" alt=""></p>
+<p align="center">:arrow_forward:Confirmez L'activation du bureau à distance</p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2032a.png" alt=""></p>
+<p align="center">:arrow_forward:Vous constaterez que le bureau à distance est bien activé</p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2047.png" alt=""></p>
+<p align="center">:arrow_forward:Lancer la connexion bureau à distance via la barre Windows et entrez le Nom de l'ordinateur auquel vous souhaitez vous connecter ainsi que l'utilisateur de cet ordinateur. Faites ensuite "connexion"</p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2048.png" alt=""></p>
+<p align="center">:arrow_forward:Le pop-up ci dessus vas alors s'afficher. Cliquez sur "Afficher le certificat"</p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2049.png" alt=""></p>
+<p align="center">:arrow_forward:Puis "installer un certificat"</p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2050.png" alt=""></p>
+<p align="center">:arrow_forward:Choisissez "Ordinateur local" puis "Suivant"</p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2051.png" alt=""></p>
+<p align="center">:arrow_forward:"Choisissez "oui"</p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2052.png" alt=""></p>
+<p align="center">:arrow_forward:Choisissez "parcourir" pour aller chercher le certificat "Autorités de certification de confiance" dans le magasins de certificat, puis faites "Suivant"</p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2053.png" alt=""></p>
+<p align="center">:arrow_forward:Faites "Terminé"</p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2054.png" alt=""></p>
-
+<p align="center">:arrow_forward:Un pop-up apparaitra pour vous indiquez que l'importation à réussi. La configuration du bureau à distance est terminé</p>
 
 ### 6. Installation de TightVNC Windows Server 2022
 
