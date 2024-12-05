@@ -205,7 +205,7 @@ Pour configurer une IP fixe sur Windows 10 voici la procédure :
 <br><p align="center"><img width="50%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2037.png" alt=""></p>
 <p align="center">:arrow_forward: Aller dans "Gestion de réseau" et choisissez " protocole internet version 4( TCP/IPv4)" puis "Propriétés"</p>
 <br><p align="center"><img width="50%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2038.png" alt=""></p>
-<p align="center">:arrow_forward: Choisissez "Utiliser l'adresse IP suivante" comme indiqué sur la capture d'écran puis cliquez sur "ok"</p>
+<p align="center">:arrow_forward: Choisissez "Utiliser l'adresse IP suivante" Garder bien cette adresse IP, car on remettre cette même adresse au moment de la configuration IP du serveur, puis cliquez sur "ok"</p>
 <br><p align="center"><img width="90%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2039.png" alt=""></p>
 <p align="center">:arrow_forward: Quand vous retournerez dans l'invite de commande et que vous taperez à nouveau la commande "ipconfig" vous vous apercevrez que l'adresse IPV4 aura changé. La configuration est terminée.</p>
 
@@ -356,7 +356,7 @@ On vas également configurer l'adresse IP pour le serveur :
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2032.png" alt=""></p>
 <p align="center">:arrow_forward:Dans l'onglet "Gestion de réseau" choisissez "protocole internet version 4 (TCP/IPV4), puis, "Propriétés"</p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2033.png" alt=""></p>
-<p align="center">:arrow_forward:Cliquez sur " Utilisez l'adresse IP suivante" puis "OK"</p>
+<p align="center">:arrow_forward: Choisissez "Utiliser l'adresse IP suivante" Reprennez l'adresse IP que vous aviez choisi dans l'etape " configuration IP windows 10" et rentrer la. Puis, cliquez sur "ok"</p>
 <br><p align="center"><img width="90%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2034.png" alt=""></p>
 <p align="center">:arrow_forward:Si vous revenez en arrière dans votre invitation de commande, votre adresse IPV4 aura été modifié avec succès !</p>
 
