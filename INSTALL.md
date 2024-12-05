@@ -233,7 +233,7 @@ Voici la procédure pour installer votre serveur Windows 2022 :
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2007.png" alt=""></p>
 <p align="center">:arrow_forward:Installer le logiciel</p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2008.png" alt=""></p>
-<p align="center">:arrow_forward:Choisissez Windows server 2022 Standard Evaluation</p>
+<p align="center">:arrow_forward:Choisissez Windows server 2022 Standard Evaluation (experience de bureau). C'est très important si vous voulez une interface graphique sur votre serveur </p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2009.png" alt=""></p>
 <p align="center">:arrow_forward:Choisissez un emplacement pour installer le logiciel</p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2010.png" alt=""></p>
@@ -352,7 +352,7 @@ On vas également configurer l'adresse IP pour le serveur :
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2030.png" alt=""></p>
 <p align="center">:arrow_forward:Rendez vous dans les paramètres de votre ordinateur et plus précisément dans " Réseau et Internet" et "Ethernet". Choisissez "Modifier les options d'adaptateur"</p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2031.png" alt=""></p>
-<p align="center">:arrow_forward:Clique droit sur "Ethernet()" et choisissez "propriété"</p>
+<p align="center">:arrow_forward:Clique droit sur "Ethernet0" et choisissez "propriété"</p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2032.png" alt=""></p>
 <p align="center">:arrow_forward:Dans l'onglet "Gestion de réseau" choisissez "protocole internet version 4 (TCP/IPV4), puis, "Propriétés"</p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win_server_2022_complete/install%20windows%20server%202022%20-%2033.png" alt=""></p>
@@ -363,15 +363,16 @@ On vas également configurer l'adresse IP pour le serveur :
 
 # 3. Pour aller plus loin dans la configuration
 
-## 1. Sécuriser la connexion via le bureau à distance
+## 1. Sécuriser la connexion via le bureau à distance (en cours)
 
-## 2. Sécuriser la connexion via TightVNC
+## 2. Sécuriser la connexion via TightVNC (en cours) 
 
-## 3. Faciliter la connexion via un script PowerShell
+## 3. Faciliter la connexion via un script PowerShell (en cours)
 
 
 # 4. FAQ
 
+- Windows serveur et l'interface graphique : L'installation à été laborieuse pour avoir la version avec interface grafique. Il fallait lors de l'installation bien prendre la version 2022 Standard Evaluation (experience de bureau).
 
 
 
