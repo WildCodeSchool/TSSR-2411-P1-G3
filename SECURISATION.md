@@ -3,7 +3,8 @@
    1.[Windows 10](#1-windows-10)
    2.[Windows Server 2022](#1-windows-server-2022)
 2. [Sécuriser la connexion Bureau à distance](#2-sécuriser-la-connexion-bureau-à-distance)
-3. [Installation de base des systèmes et de leur environnement](#2-installation-de-base-des-systèmes-et-de-leur-environnement)
+   1. [Changement du port utilisé par le bureau à distance](#1-Changement-du-port-utilisé-par-le-bureau-à-distance)
+4. [Installation de base des systèmes et de leur environnement](#2-installation-de-base-des-systèmes-et-de-leur-environnement)
    1. [Machine client sous Windows 10](#1-machine-client-sous-windows-10)
       1. [Configuration de la VM](#1-configuration-de-la-vm-windows-10)
       2. [Installation de Windows 10](#2-installation-de-windows-10)
@@ -21,11 +22,11 @@
       6. [Téléchargement et installation de TightVNC](#6-installation-de-tightvnc-windows-server-2022)
       7. [Mises à jour Windows Update](#7-mises-à-jour-windows-update-windows-server-2022)
       8. [Configuration d'une IP fixe](#8-configuration-dune-ip-fixe-windows-server-2022)
-4. [Pour aller plus loin dans la configuration](#3-pour-aller-plus-loin-dans-la-configuration)
+5. [Pour aller plus loin dans la configuration](#3-pour-aller-plus-loin-dans-la-configuration)
    1. [Sécuriser la connexion via le bureau à distance](#1-sécuriser-la-connexion-via-le-bureau-à-distance)
    2. [Sécuriser la connexion via TightVNC](#2-sécuriser-la-connexion-via-tightvnc)
    3. [Faciliter la connexion via un script PowerShell](#3-faciliter-la-connexion-via-un-script-powershell)
-5. [FAQ](#4-FAQ)
+6. [FAQ](#4-FAQ)
 
 
 # 1. Installation Open SSH
@@ -46,7 +47,8 @@
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/securistation/install%20windows%20server%202022%20-%20117.png" alt=""></p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/securistation/install%20windows%20server%202022%20-%20118.png" alt=""></p>
 # 2. Sécuriser la connexion Bureau à distance
-a) Changement du port utilisé par le bureau à distance (par défaut 3389, basculé sur 49151)
+## 1. Changement du port utilisé par le bureau à distance
+Par défaut 3389, basculé sur 49151.
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/securistation/install%20windows%20server%202022%20-%20127.png" alt=""></p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/securistation/install%20windows%20server%202022%20-%20128.png" alt=""></p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/securistation/install%20windows%20server%202022%20-%20129.png" alt=""></p>
