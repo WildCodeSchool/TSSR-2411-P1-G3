@@ -46,6 +46,7 @@ TightVNC permet de prendre le contrôle à distance (ou prise de main) d'un autr
 
 ## Solutions trouvées
  - Connexion sur le même réseaux avec une même adresse IP
+ - Solution de sécurisation plus poussé en cours de recherche (tunnel SSH)
 
   <br>
 
@@ -53,3 +54,4 @@ TightVNC permet de prendre le contrôle à distance (ou prise de main) d'un autr
 - Une interfase graphique moins archaïque et plus développé
 - Choix d'un mot de passe de session beaucoup plus complexe pour sécurisé l'accès
 - Utiliser un tunnel SSH pour renforcer la sécurité de connexion avec TightVNC
+- A terme, passer sur une application autre que TightVNC plus performante et sécurisée et surtout moins obsolète.
