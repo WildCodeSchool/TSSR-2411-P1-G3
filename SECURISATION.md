@@ -1,9 +1,11 @@
 # Sommaire
 1. [Installation Open SSH](#1-installation-open-ssh)
    1.[Windows 10](#1-windows-10)
-   2.[Windows Server 2022](#1-Windows-Server-2022)
-2. [Sécuriser la connexion Bureau à distance](#2-sécuriser-la-connexion-bureau-à-distance)
+   2.[Windows Server 2022](#2-Windows-Server-2022)
+3. [Sécuriser la connexion Bureau à distance](#2-sécuriser-la-connexion-bureau-à-distance)
    1. [Changement du port utilisé par le bureau à distance](#1-Changement-du-port-utilisé-par-le-bureau-à-distance)
+   2. [Echec de la connexion depuis le PC client](#2-Echec-de-la-connexion-depuis-le-PC-client)
+   3. [Recherche de solutions](#1-Recherche-de-solutions)
 4. [Installation de base des systèmes et de leur environnement](#2-installation-de-base-des-systèmes-et-de-leur-environnement)
    1. [Machine client sous Windows 10](#1-machine-client-sous-windows-10)
       1. [Configuration de la VM](#1-configuration-de-la-vm-windows-10)
@@ -69,9 +71,9 @@ Par défaut 3389, basculé sur 49151.
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/securistation/install%20windows%2010%20-%20117.png" alt=""></p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/securistation/install%20windows%2010%20-%20126.png" alt=""></p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/securistation/install%20windows%2010%20-%20127.png" alt=""></p>
-b) Echec de la connexion depuis le PC client
+## 2. Echec de la connexion depuis le PC client
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/securistation/install%20windows%2010%20-%20130.png" alt=""></p>
-c) Recherche de solutions
+## 3. Recherche de solutions
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/securistation/install%20windows%20server%202022%20-%20143.png" alt=""></p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/securistation/install%20windows%20server%202022%20-%20144.png" alt=""></p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/securistation/install%20windows%20server%202022%20-%20145.png" alt=""></p>
