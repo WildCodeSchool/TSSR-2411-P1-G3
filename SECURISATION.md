@@ -34,7 +34,7 @@
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/securistation/install%20windows%20server%202022%20-%20118.png" alt=""></p>
 # 2. Sécuriser la connexion Bureau à distance
 ## 1. Changement du port utilisé par le bureau à distance
-Par défaut 3389, basculé sur 49151.
+<p align="center">:arrow_forward: Par défaut 3389, basculé sur 49151.</p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/securistation/install%20windows%20server%202022%20-%20127.png" alt=""></p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/securistation/install%20windows%20server%202022%20-%20128.png" alt=""></p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/securistation/install%20windows%20server%202022%20-%20129.png" alt=""></p>
@@ -88,7 +88,7 @@ Par défaut 3389, basculé sur 49151.
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/securistation/install%20windows%2010%20-%20135.png" alt=""></p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/securistation/install%20windows%2010%20-%20136.png" alt=""></p>
 # 5. Sécurisation de TightVNC
-Port par défaut 5900. Idée : modifier le port pour sécuriser la connexion en passant par le port 25600.
+<p align="center">:arrow_forward: Port par défaut 5900. Idée : modifier le port pour sécuriser la connexion en passant par le port 25600.</p>
 ## 1. Windows Server 2022
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/securistation/install%20windows%20server%202022%20-%20163.png" alt=""></p>
 ## 2. Windows 10
