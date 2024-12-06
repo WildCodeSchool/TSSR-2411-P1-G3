@@ -1,3 +1,4 @@
+# Sommaire
 1. [Prérequis technique](#1-prérequis-technique)
 2. [Installation de base des systèmes et de leur environnement](#2-installation-de-base-des-systèmes-et-de-leur-environnement)
    1. [Machine client sous Windows 10](#1-machine-client-sous-windows-10)
