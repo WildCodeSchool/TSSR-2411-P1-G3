@@ -58,3 +58,44 @@
 ![](https://github.com/user-attachments/assets/02c15c21-0178-4b67-af84-197e4bc91ffd)
 
 ## 2. Utilisation avancée
+
+On peut modifier le paramètres pour avoir plus de control sur les outils qu'on a vu.
+
+### Pour gerer ces paramètres en TightVNC 
+
+* Il faut cliquer sur __Options...__
+
+![](https://github.com/user-attachments/assets/dad58700-83ec-45b1-aa38-6818884ea8d9)
+
+* Et ça va afficher les options concernant l'interface graphique, la souris, le pointer/curseur et la connexion
+
+![](https://github.com/user-attachments/assets/cfad58b6-003c-4c4c-9aad-0c6f8651a56b)
+
+### Pour paramètrer le bureau à distance
+
+* On va cliquer sur __Afficher les options__
+
+![](https://github.com/user-attachments/assets/11c68f4d-dacf-418e-8125-d4ab6872fb58)
+
+* En __Général__ on peut voir les paramètres de base de la connexion
+
+![](https://github.com/user-attachments/assets/cbca9201-483a-4b61-bf2b-368fb120cb3f)
+
+* En __Affichage__ on peut choisir les options graphiques
+
+![](https://github.com/user-attachments/assets/aace87c7-8a21-4c1b-8cc3-3a90ad64bc37)
+
+* En __Ressources locales__ on peut gerer les périphériques locaux comme le clavier, l'audio, etc...
+
+![](https://github.com/user-attachments/assets/ce103821-c4f2-41c2-b0e1-3ac7320853f4)
+
+* En __Expérience__ on peur approfondir dans les paramètres de connexion
+
+![](https://github.com/user-attachments/assets/5b6f05db-9b50-47c4-ba54-03762c5b75c4)
+
+* En __Avancé__ on peut paramètrer l'authentification du serveur, la connexion depuis tout ordinateur et l'authentification d'utilisateur
+
+![](https://github.com/user-attachments/assets/fba704ba-fa24-451e-a536-70857d362189)
+
+
+## 3. FAQ
