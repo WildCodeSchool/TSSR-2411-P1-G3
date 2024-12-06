@@ -35,7 +35,7 @@ TightVNC permet de prendre le contrôle à distance (ou prise de main) d'un autr
 
 |   Choix de l'OS  |  Tight VCN | Windows serveur 2022 |
 | :--------------- |:---------------:| :---------------:|
-|  choix de la version | version 2.8.85  | Standard evaluation version 21H2 |
+|  choix de la version | version 2.8.85  | Standard evaluation (expérience de bureau) version 21H2 |
 <br>
 
 ## Difficultées rencontrées
