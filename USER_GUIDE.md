@@ -99,3 +99,5 @@ On peut modifier le paramètres pour avoir plus de control sur les outils qu'on 
 
 
 ## 3. FAQ
+
+<p align="center">:arrow_forward:Choisissez la langue</p>
