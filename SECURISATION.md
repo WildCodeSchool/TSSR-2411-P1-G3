@@ -1,7 +1,7 @@
 # Sommaire
 1. [Installation Open SSH](#1-installation-open-ssh)
    1.[Windows 10](#1-windows-10)
-   2.[Windows Server 2022](#1-windows-server-2022)
+   2.[Windows Server 2022](#1-Windows-Server-2022)
 2. [Sécuriser la connexion Bureau à distance](#2-sécuriser-la-connexion-bureau-à-distance)
    1. [Changement du port utilisé par le bureau à distance](#1-Changement-du-port-utilisé-par-le-bureau-à-distance)
 4. [Installation de base des systèmes et de leur environnement](#2-installation-de-base-des-systèmes-et-de-leur-environnement)
