@@ -1,17 +1,17 @@
 # Sommaire
-1. [Installation Open SSH](#1-installation-open-ssh)
-   1.[Windows 10](#1-windows-10)
-   2.[Windows Server 2022](#2-Windows-Server-2022)
-3. [Sécuriser la connexion Bureau à distance](#2-sécuriser-la-connexion-bureau-à-distance)
-   1. [Changement du port utilisé par le bureau à distance](#1-Changement-du-port-utilisé-par-le-bureau-à-distance)
-   2. [Echec de la connexion depuis le PC client](#2-Echec-de-la-connexion-depuis-le-PC-client)
-   3. [Recherche de solutions](#3-Recherche-de-solutions)
-4. [Paramétrage en réseau privé](#3-Paramétrage-en-réseau-privé)
-   1.[Windows 10](#1-windows-10)
-   2.[Windows Server 2022](#2-Windows-Server-2022)
-5. [Installation de MobaXterm sur Windows 10](#4-Installation-de-MobaXterm-sur-Windows-10)
-6. [Sécurisation de TightVNC](#5-Sécurisation-de-TightVNC)
-7. [Modification du port SSH](#6-Modification-du-port-SSH)
+1. [Installation Open SSH](#1-installation-open-ssh)<br>
+   1.[Windows 10](#1-windows-10)<br>
+   2.[Windows Server 2022](#2-Windows-Server-2022)<br>
+3. [Sécuriser la connexion Bureau à distance](#2-sécuriser-la-connexion-bureau-à-distance)<br>
+   1. [Changement du port utilisé par le bureau à distance](#1-Changement-du-port-utilisé-par-le-bureau-à-distance)<br>
+   2. [Echec de la connexion depuis le PC client](#2-Echec-de-la-connexion-depuis-le-PC-client)<br>
+   3. [Recherche de solutions](#3-Recherche-de-solutions)<br>
+4. [Paramétrage en réseau privé](#3-Paramétrage-en-réseau-privé)<br>
+   1.[Windows 10](#1-windows-10)<br>
+   2.[Windows Server 2022](#2-Windows-Server-2022)<br>
+5. [Installation de MobaXterm sur Windows 10](#4-Installation-de-MobaXterm-sur-Windows-10)<br>
+6. [Sécurisation de TightVNC](#5-Sécurisation-de-TightVNC)<br>
+7. [Modification du port SSH](#6-Modification-du-port-SSH)<br>
 8. [Utilisation de Putty pour se connecter en SSH via un tunnel](#7-Utilisation-de-Putty-pour-se-connecter-en-SSH-via-un-tunnel)
 
 
