@@ -58,11 +58,11 @@
 <br><p align="center"><img width="50%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2002.png" alt=""></p>
 <p align="center">:arrow_forward: Choisissez "Microsoft Windows" et "Windows 10 x64"</p>
 <br><p align="center"><img width="50%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2003.png" alt=""></p>
-<p align="center">:arrow_forward: Choisissez le nom de votre machine virtuel</p>
+<p align="center">:arrow_forward: Choisissez le nom de votre machine virtuelle</p>
 <br><p align="center"><img width="50%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2004.png" alt=""></p>
 <p align="center">:arrow_forward: Choisissez la taille du disque</p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2005.png" alt=""></p>
-<p align="center">:arrow_forward: Télécharger l'iso de votre OS comme indiqué</p>
+<p align="center">:arrow_forward: Téléchargez l'ISO de votre OS comme indiqué</p>
 
 ### 2. Installation de Windows 10
 
@@ -71,9 +71,9 @@
 <p align="center">:arrow_forward: Choisissez la langue</p>
 <br><p align="center"><img width="60%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2007.png" alt=""></p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2008.png" alt=""></p>
-<br><p align="center">:arrow_forward: Pour activé Windows sans clé de produit, choisissez " je n'ai pas de clé de produit (product key)"</p>
+<br><p align="center">:arrow_forward: Pour activer Windows sans clé de produit, choisissez "Je n'ai pas de clé de produit (product key)"</p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2009.png" alt=""></p>
-<p align="center">:arrow_forward: Choisissez " Windows 10 professionnel"</p>
+<p align="center">:arrow_forward: Choisissez "Windows 10 professionnel"</p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2010.png" alt=""></p>
 <p align="center">:arrow_forward: Choisissez votre disque pour continuer l'installation</p>
 <br><p align="center"><img src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2011.png" alt=""></p>
@@ -81,27 +81,27 @@
 <br><p align="center"><img src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2012.png" alt=""></p>
 <p align="center">:arrow_forward: Si vous n'avez pas de compte, choisissez "compte Hors connexion"</p>
 <br><p align="center"><img src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2013.png" alt=""></p>
-<p align="center">:arrow_forward: Choisissez "Experience limité" puis, cliquez sur suivant</p>
+<p align="center">:arrow_forward: Choisissez "Experience limitée" puis, cliquez sur suivant</p>
 <br><p align="center"><img src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2014.png" alt=""></p>
-<p align="center">:arrow_forward: Nommer votre Utilisateur</p>
+<p align="center">:arrow_forward: Nommez votre Utilisateur</p>
 <br><p align="center"><img src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2015.png" alt=""></p>
-<p align="center">:arrow_forward: Créer un mot de passe afin de sécuriser votre accès</p>
+<p align="center">:arrow_forward: Créez un mot de passe afin de sécuriser votre accès</p>
 <br><p align="center"><img src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2016.png" alt=""></p>
 <p align="center">:arrow_forward: Choisissez "Pas maintenant." puis, cliquez sur suivant</p>
 <br><p align="center"><img src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2017.png" alt=""></p>
-<p align="center">:arrow_forward: Choissisez "non" puis, accepter.</p>
+<p align="center">:arrow_forward: Choissisez "non" puis, acceptez.</p>
 <br><p align="center"><img src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2018.png" alt=""></p>
-<p align="center">:arrow_forward: Encore une fois "non " puis accepter</p>
+<p align="center">:arrow_forward: Encore une fois "non " puis acceptez</p>
 <br><p align="center"><img src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2019.png" alt=""></p>
-<p align="center">:arrow_forward: Choisissez" Envoyer les données de diagnostic obligatoires" puis, accepter</p>
+<p align="center">:arrow_forward: Choisissez" Envoyer les données de diagnostic obligatoires" puis, acceptez</p>
 <br><p align="center"><img src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2020.png" alt=""></p>
-<p align="center">:arrow_forward: Choissisez "non" puis, accepter.</p>
+<p align="center">:arrow_forward: Choissisez "non" puis, acceptez.</p>
 <br><p align="center"><img src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2021.png" alt=""></p>
-<p align="center">:arrow_forward: Encore une fois "non " puis accepter</p>
+<p align="center">:arrow_forward: Encore une fois "non " puis acceptez</p>
 <br><p align="center"><img src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2022.png" alt=""></p>
-<p align="center">:arrow_forward: Encore une fois "non " puis accepter</p>
+<p align="center">:arrow_forward: Encore une fois "non " puis acceptez</p>
 <br><p align="center"><img src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2023.png" alt=""></p>
-<p align="center">:arrow_forward: Vous etes libres de personnaliser votre expérience, sinon ignorer cette étape</p>
+<p align="center">:arrow_forward: Vous êtes libre de personnaliser votre expérience, sinon ignorez cette étape</p>
 <br><p align="center"><img src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2024.png" alt=""></p>
 <p align="center">:arrow_forward: Choisissez "Pas maintenant"</p>
 
@@ -112,31 +112,31 @@ Si vous avez besoin de renommer votre utilisateur pc , voici comment procéder :
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2025.png" alt=""></p>
 <p align="center">:arrow_forward: Choisissez "Système"</p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2026.png" alt=""></p>
-<p align="center">:arrow_forward: Aller dans "A propos de"</p>
+<p align="center">:arrow_forward: Allez dans "A propos de"</p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2027.png" alt=""></p>
-<p align="center">:arrow_forward: Et la, choisissez "renommer ce pc"</p>
+<p align="center">:arrow_forward: Et là, choisissez "renommer ce pc"</p>
 <br><p align="center"><img width="50%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2028.png" alt=""></p>
-<p align="center">:arrow_forward: Donner lui le nom voulu</p>
+<p align="center">:arrow_forward: Donnez-lui le nom voulu</p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2029.png" alt=""></p>
-<p align="center">:arrow_forward: Vous verrez donc le nouveau nom choisi quand vous reviendrais dans " A propos de"</p>
+<p align="center">:arrow_forward: Vous verrez donc le nouveau nom choisi quand vous reviendrez dans " A propos de"</p>
 <br><p align="center"><img width="50%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2030.png" alt=""></p>
-<p align="center">:arrow_forward: L'ordinateur vous conseillera de redémarrer, accepter et attendez le redémarrage.</p>
+<p align="center">:arrow_forward: L'ordinateur vous conseillera de redémarrer, acceptez et attendez le redémarrage.</p>
 
 ### 4. Activation et configuration du bureau à distance Windows 10
 
-Voici la marche à suivre pour configurer le bureau à distance sur Windows 10 ainsi qu'un raccourci cliquable que l'on va installer sur le bureau afin de faciliter la connexion :
+Voici la marche à suivre pour configurer le Bureau à distance sur Windows 10 ainsi qu'un raccourci cliquable que l'on va installer sur le bureau afin de faciliter la connexion :
 
 
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2031.png" alt=""></p>
-<p align="center">:arrow_forward: Retourner dans "Système" et choisissez "Bureau à distance" puis activer l'interrupteur</p>
+<p align="center">:arrow_forward: Retournez dans "Système" et choisissez "Bureau à distance" puis activer l'interrupteur</p>
 <br><p align="center"><img width="50%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2032.png" alt=""></p>
-<p align="center">:arrow_forward: Confirmer l'activation</p>
+<p align="center">:arrow_forward: Confirmez l'activation</p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2032a.png" alt=""></p>
-<p align="center">:arrow_forward: Vous voyez en revenant dans le bureau à distance que l'interrupteur est activé</p>
+<p align="center">:arrow_forward: Vous voyez en revenant dans le Bureau à distance que l'interrupteur est activé</p>
 <br><p align="center"><img width="50%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2040.png" alt=""></p>
-<p align="center">:arrow_forward: Ensuite, ouvrez le bureau à distance et rentrez le nom du serveur auquel vous voulez vous connecter et son nom d'utilisateur pour vous connecter à distance puis faites "connexion"</p>
+<p align="center">:arrow_forward: Ensuite, ouvrez le Bureau à distance et rentrez le nom du serveur auquel vous voulez vous connecter et son nom d'utilisateur pour vous connecter à distance puis faites "Connexion"</p>
 <br><p align="center"><img width="50%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2052.png" alt=""></p>
-<p align="center">:arrow_forward: Une fenêtre va s'ouvrir vous indiquant qu'il est impossible de s'autentifier en raison de problème liés au certificat de sécurité.Choisissez " afficher le certificat"</p>
+<p align="center">:arrow_forward: Une fenêtre va s'ouvrir vous indiquant qu'il est impossible de s'autentifier en raison de problèmes liés au certificat de sécurité. Choisissez "afficher le certificat"</p>
 <br><p align="center"><img width="50%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2053.png" alt=""></p>
 <p align="center">:arrow_forward: Choisissez "installer un certificat " et cliquez sur ok</p>
 <br><p align="center"><img width="50%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2054.png" alt=""></p>
@@ -144,7 +144,7 @@ Voici la marche à suivre pour configurer le bureau à distance sur Windows 10 a
 <br><p align="center"><img width="50%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2055.png" alt=""></p>
 <p align="center">:arrow_forward: Choisissez "oui"</p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2056.png" alt=""></p>
-<p align="center">:arrow_forward: Choisissez " placer tout les certificats dans le magasin suivant et arcourez le magasin de certificats et choisissez " autorité de certification racines de confiance"
+<p align="center">:arrow_forward: Choisissez " placer tout les certificats dans le magasin suivant et arcourez le magasin de certificats et choisissez autorité de certification racines de confiance"
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2057.png" alt=""></p>
 <p align="center">:arrow_forward: Une fois le bon certificat choisi, faite suivant,
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/install_win10_complete/install%20windows%2010%20-%2058.png" alt=""></p>
