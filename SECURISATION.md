@@ -29,7 +29,7 @@
 
 
 
-1) Installation Open SSH
+# 1) Installation Open SSH
 a) Windows 10
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/securistation/install%20windows%2010%20-%20100.png" alt=""></p>
 <br><p align="center"><img width="70%" src="https://github.com/WildCodeSchool/TSSR-2411-P1-G3/blob/main/images/securistation/install%20windows%2010%20-%20101.png" alt=""></p>
